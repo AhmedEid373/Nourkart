@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "عن المتجر",
+    "contact": "تواصل معنا",
+    "cart": "السلة",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "dashboard": "لوحة التحكم",
+    "myOrders": "طلباتي"
+  },
+  "home": {
+    "hero": {
+      "title": "حوّل جدرانك",
+      "subtitle": "اكتشف ديكورات الحوائط الفريدة التي تضفي الحياة والجمال على كل غرفة",
+      "cta": "تسوق الآن",
+      "ctaSecondary": "عرض المجموعة"
+    },
+    "featured": "منتجات مميزة",
+    "allProducts": "جميع المنتجات",
+    "newArrivals": "وصل حديثاً",
+    "noProducts": "لا توجد منتجات متاحة",
+    "addToCart": "أضف للسلة",
+    "outOfStock": "نفذ من المخزون",
+    "discount": "خصم"
+  },
+  "product": {
+    "description": "الوصف",
+    "addToCart": "أضف للسلة",
+    "buyNow": "اشتر الآن",
+    "quantity": "الكمية",
+    "inStock": "متوفر",
+    "outOfStock": "نفذ من المخزون",
+    "relatedProducts": "منتجات مشابهة",
+    "reviews": "آراء العملاء"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلتك فارغة",
+    "continueShopping": "متابعة التسوق",
+    "subtotal": "المجموع الفرعي",
+    "discount": "الخصم",
+    "total": "الإجمالي",
+    "checkout": "إتمام الشراء",
+    "promoCode": "كود الخصم",
+    "applyPromo": "تطبيق",
+    "promoApplied": "تم تطبيق كود الخصم!",
+    "invalidPromo": "كود خصم غير صالح أو منتهي الصلاحية",
+    "remove": "حذف",
+    "quantity": "الكمية"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "personalInfo": "المعلومات الشخصية",
+    "name": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "address": "العنوان",
+    "city": "المدينة",
+    "country": "الدولة",
+    "payNow": "ادفع الآن",
+    "orderSummary": "ملخص الطلب",
+    "processing": "جاري معالجة الدفع..."
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "loginSuccess": "مرحباً بك مجدداً!",
+    "signupSuccess": "تم إنشاء الحساب بنجاح!",
+    "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+    "signupDisabled": "التسجيل معطل حالياً",
+    "or": "أو"
+  },
+  "about": {
+    "title": "عن نوركارت",
+    "subtitle": "وجهتك لديكورات الحوائط الجميلة"
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "name": "اسمك",
+    "email": "البريد الإلكتروني",
+    "message": "رسالتك",
+    "send": "إرسال الرسالة",
+    "success": "تم إرسال رسالتك بنجاح!",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "workingHours": "ساعات العمل"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة",
+    "followUs": "تابعنا",
+    "quickLinks": "روابط سريعة",
+    "contactUs": "تواصل معنا"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sortBy": "ترتيب حسب",
+    "price": "السعر",
+    "name": "الاسم",
+    "category": "الفئة",
+    "status": "الحالة",
+    "actions": "الإجراءات",
+    "viewAll": "عرض الكل",
+    "seeMore": "المزيد",
+    "currency": "ج.م"
+  }
+}
